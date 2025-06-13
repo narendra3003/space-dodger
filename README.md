@@ -66,13 +66,13 @@ Space Dodger is an exciting mobile game that combines classic arcade gameplay wi
 
 ```
 ┌─────────────────────────────────┐
-│        🏆 Space Dodge 🏆        │
+│        🏆 Space Dodge 🏆       │
 │                                 │
 │    🚀                          │
 │                                 │
-│  ⭐     💥                      │
+│  ⭐     💥                     │
 │                                 │
-│     💥      ⭐                  │
+│     💥      ⭐                 │
 │                                 │
 │  [◀]        [▶]                │
 │                                 │
@@ -354,7 +354,6 @@ We welcome contributions! Here's how you can help:
 
 *Built with ❤️ using Flutter*
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](releases/latest)
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Get_it_here-blue.svg)](https://play.google.com/store/apps/details?id=com.example.space_dodge)
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)]([releases/latest](https://github.com/narendra3003/space-dodger/releases/tag/v1.0.0))
 
 </div>
